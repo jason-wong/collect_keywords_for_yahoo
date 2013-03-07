@@ -8,3 +8,5 @@ collect_keywords_for_yahoo
 此程序帮助针对雅虎日本做关键词优化时得到相关词语。
 
 程序基于Snoopy采集类开发，User-Agent信息为Firefox 12浏览器。
+
+全程采用文件缓存，无需DB支持，部署到环境打开即可使用
